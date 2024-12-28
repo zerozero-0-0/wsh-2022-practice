@@ -22,15 +22,6 @@ CyberTicket のパフォーマンスを改善してください。
 - [学生向け / 社内向け Web Speed Hackathon 2022](./docs/internal/README.md)
 - [一般向け Web Speed Hackathon 2022](./docs/public/README.md)
 
-## 参加方法
-
-1. **課題のソースコードを fork します**
-   - https://github.com/CyberAgentHack/web-speed-hackathon-2022
-2. **データベースを初期化し、必要に応じてリーダーボードも fork して設定します**
-   - [./docs/DEVELOPMENT.md](./docs/DEVELOPMENT.md)を参考に、取り組む日時に合わせたデータを生成してください
-3. **参加記事や解説記事、大歓迎です！**
-   - 他の人の解説記事や参加記事を読んで、更に高速なアプリを目指しましょう
-
 ### 以前の Web Speed Hackathon 2022 参加者のかたへ
 
 以前の Web Speed Hackathon 2022 から、いくつかの変更点があります。
