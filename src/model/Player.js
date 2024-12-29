@@ -5,7 +5,7 @@ class Player {
     columns: {
       id: {
         generated: "uuid",
-        primary: true,
+        primary: false,// true -> false
         type: "uuid",
       },
       image: {
